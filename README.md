@@ -1,0 +1,2 @@
+# -BSF-Nutrifeed-Smart-Monitoring-System-Early-Prototype
+This project is called the BSF Nutrifeed Monitor. In insect farming, the biggest challenge is knowing if a colony is thriving without constant manual inspection. We have built a computer vision system that 'sees' the larvae, counts them, and logs their growth 24/7, it acts as an early warning system. This ensures maximum yield and minimal waste.
