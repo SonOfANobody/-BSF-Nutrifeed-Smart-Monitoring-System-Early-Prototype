@@ -65,6 +65,7 @@ python visualize_data.py
 📂 Project Structure
 
 Plaintext
+
 ├── alerts/               # 📸 Folder where alert snapshots are saved
 
 ├── bsf_monitor_log.csv   # 📄 Historical data log (Auto-generated)
