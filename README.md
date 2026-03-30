@@ -62,7 +62,7 @@ Bash
 
 python visualize_data.py
 
-📂 Project Structure
+## 📂 Project Structure
 
 Plaintext
 
